@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updateDescriptor baseUrl="">
-  <entry targetMediaFileId="60" updatableVersionMin="" updatableVersionMax="" fileName="SimpleTest_windows_1_3.exe" newVersion="1.3" newMediaFileId="60" fileSize="43146752" md5Sum="55becaf6201ddbb7f6e4b63d4f95d2c4" bundledJre="windows-x86-1.8.0_162" archive="false" singleBundle="false">
+  <entry targetMediaFileId="60" updatableVersionMin="" updatableVersionMax="" fileName="SimpleTest_windows_1_4.exe" newVersion="1.4" newMediaFileId="60" fileSize="43146240" md5Sum="462cbff5508a6257b94046ecdf7aa888" bundledJre="windows-x86-1.8.0_162" archive="false" singleBundle="false">
     <comment language="en" />
     <comment language="cs" />
     <comment language="de" />
     <comment language="es" />
   </entry>
-  <entry targetMediaFileId="62" updatableVersionMin="" updatableVersionMax="" fileName="SimpleTest_macos_1_3.dmg" newVersion="1.3" newMediaFileId="62" fileSize="50233479" md5Sum="babd242f5fb373f9e7957fd46d383bc6" bundledJre="macosx-amd64-1.8.0_172" archive="false" singleBundle="true">
+  <entry targetMediaFileId="62" updatableVersionMin="" updatableVersionMax="" fileName="SimpleTest_macos_1_4.dmg" newVersion="1.4" newMediaFileId="62" fileSize="50233479" md5Sum="8ac8cf9bf7825a07f6ac91bfe0ad8b98" bundledJre="macosx-amd64-1.8.0_172" archive="false" singleBundle="true">
     <comment language="en" />
     <comment language="cs" />
     <comment language="de" />
     <comment language="es" />
   </entry>
-  <entry targetMediaFileId="158" updatableVersionMin="" updatableVersionMax="" fileName="SimpleTest_unix_1_3.sh" newVersion="1.3" newMediaFileId="158" fileSize="77834296" md5Sum="c6ef429851123c4a8fd441dbe3d11ef9" bundledJre="macosx-amd64-10.0.1" archive="false" singleBundle="false">
+  <entry targetMediaFileId="158" updatableVersionMin="" updatableVersionMax="" fileName="SimpleTest_unix_1_4.sh" newVersion="1.4" newMediaFileId="158" fileSize="77840695" md5Sum="ad940cef52f1d771efccaf2d2561ccdf" bundledJre="macosx-amd64-10.0.1" archive="false" singleBundle="false">
     <comment language="en" />
     <comment language="cs" />
     <comment language="de" />
